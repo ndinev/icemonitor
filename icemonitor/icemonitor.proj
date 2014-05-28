@@ -13,6 +13,7 @@
     <CorePlugins>org.apache.cordova.network-information;org.apache.cordova.splashscreen</CorePlugins>
     <Description>icemonitor</Description>
     <FrameworkVersion>3.2.0</FrameworkVersion>
+    <WP8SupportedResolutions>ID_RESOLUTION_WVGA;ID_RESOLUTION_WXGA;ID_RESOLUTION_HD720P</WP8SupportedResolutions>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\Telerik\ICE\Tools\Mobile\MobileTools.targets" />
 </Project>
